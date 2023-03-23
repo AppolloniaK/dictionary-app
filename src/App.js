@@ -15,7 +15,8 @@ export default function App() {
       </main>
       <footer className="App-footer">
         <small> 
-        Coded by Appollonia Khan
+        Coded by 
+        <a href="https://idyllic-cobbler-4d0550.netlify.app/"> Appollonia Khan</a>
         </small>
       </footer>
     </div>
